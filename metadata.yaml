@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2641
     wikipedia: http://en.wikipedia.org/wiki/Henry_Blake_Fuller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31138#The-So-called-Human-Race
 gutenberg_issued: '2010-01-31'
 gutenberg_type: Text
 identifiers:
